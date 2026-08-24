@@ -29,4 +29,4 @@ Research blurb (TBD)
 {% include section.html %}
 ## Publications
 
-{% include list.html data="citations" component="citation" filters="andrew-su-list: true" style="rich" %}
+{% include list.html data="citations" component="citation" filters="xyrus-maurer-alcala-list: true" style="rich" %}

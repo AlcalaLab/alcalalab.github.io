@@ -5,11 +5,11 @@ nav:
   tooltip: About our team
 ---
 
+# {% include icon.html icon="fa-solid fa-users" %}Team
 <!-- , and their backgrounds range from pure computer science to experimental biology -->
 
 Our lab is currently made up of a talented mix of undergraduate and graduate students. If you're interested in joining this diverse and dynamic team, please reach out!
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
 {%
   include button.html
   icon="fa-solid fa-image"
