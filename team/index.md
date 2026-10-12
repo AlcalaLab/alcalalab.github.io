@@ -34,6 +34,8 @@ If you're interested in joining this diverse and dynamic team, please reach out!
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
+{% include list.html data="members" component="portrait" filter="role == 'masters'" %}
+
 {% include list.html data="members" component="portrait" filter="role != 'pi' and group != 'alum'" %}
 
 
