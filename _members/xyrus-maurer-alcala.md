@@ -4,7 +4,7 @@ image: images/Xyrus_ByMeryn.png
 role: pi
 group: active
 aliases:
-  - Xyrus
+  - Xyrus X. Maurer-Alcalá
   - X. Maurer-Alcala
   - X X Maurer-Alcala
 pronouns: he/him
