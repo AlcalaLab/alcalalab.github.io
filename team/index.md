@@ -34,9 +34,13 @@ If you're interested in joining this diverse and dynamic team, please reach out!
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+
 {% include list.html data="members" component="portrait" filter="role == 'masters'" %}
 
-{% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'masters' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and role != 'postdoc' and role != 'phd' and role != 'masters' and group != 'alum'" %}
 
 
 {% include section.html background="images/WM_Banner.png" dark=true %}
