@@ -7,7 +7,7 @@ affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:
-  home-page:https://reernst348.github.io/RE_Notebook/
+  home-page: https://reernst348.github.io/RE_Notebook/
   orcid:
   email:
   google-scholar:

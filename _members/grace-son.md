@@ -1,10 +1,11 @@
 ---
 name: Grace Son
 image: images/Grace_Son.jpg
-role: Undergraduate Researcher
+role: undergrad
 group: active
 affiliation: William & Mary
-aliases:pronouns:she/her
+aliases:
+pronouns: she/her
 links:  
   home-page: https://graceeson.github.io/ges_notebook/
   orcid:  

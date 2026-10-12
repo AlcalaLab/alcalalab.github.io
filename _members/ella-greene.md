@@ -9,7 +9,7 @@ pronouns: she/her
 links:
   home-page: https://emgreene131.github.io/emgreene131/
   orcid:
-  email: emgreene.wm.edu
+  email: egreene@wm.edu
   google-scholar:
   github: emgreene131
 ---
