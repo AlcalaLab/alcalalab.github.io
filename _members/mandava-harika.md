@@ -3,7 +3,7 @@ name: Harika Mandava
 image: images/Harika_Mandava.png
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:

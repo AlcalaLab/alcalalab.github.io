@@ -3,7 +3,7 @@ name: Ethan Doan
 image: images/Ethan_Doan.jpg
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: he/him
 links:

@@ -3,7 +3,7 @@ name: Kamna Kalkunte
 image: images/Kamna_Kalkunte.jpg
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:

@@ -3,7 +3,7 @@
 image: images/Grace_Son.jpg
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:  

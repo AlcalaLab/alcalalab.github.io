@@ -3,7 +3,7 @@ name: Aarthi Bharathan
 image: images/Aarthi_Bharathan.jpg
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: She/Her
 links:

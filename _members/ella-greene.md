@@ -3,7 +3,7 @@ name: Ella Greene
 image: images/Ella_Greene.jpg
 role: undergrad
 group: active
-affiliation: William & Mary
+# affiliation: William & Mary
 aliases:
 pronouns: she/her
 links:
